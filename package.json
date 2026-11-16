@@ -1,0 +1,11 @@
+{
+  "name": "neon-courier",
+  "private": true,
+  "type": "module",
+  "scripts": {
+    "start": "node serve.ts",
+    "artifact": "node main.ts",
+    "verify": "node tools/verify.mjs",
+    "browser-check": "node tools/browser-check.mjs"
+  }
+}

@@ -1,0 +1,38 @@
+{
+  "screenshots": [
+    {
+      "file": "1-start.jpg",
+      "bytes": 78911,
+      "width": 1280,
+      "height": 720
+    },
+    {
+      "file": "2-play.jpg",
+      "bytes": 92035,
+      "width": 1280,
+      "height": 720
+    },
+    {
+      "file": "3-end.jpg",
+      "bytes": 58033,
+      "width": 1280,
+      "height": 720
+    }
+  ],
+  "playtest": [
+    "Enter starts from title with 3 lives",
+    "Real WASD input moves the drone and collects parcel A",
+    "Matching-pad delivery: score 125, combo ×2, deliveries 1/10",
+    "P freezes/resumes simulation; Space triggers dash cooldown",
+    "Traffic hit: lives 2, combo reset to ×1",
+    "GAME OVER at score 125; best 125",
+    "R restarts to playing, score 0, lives 3, best retained",
+    "M toggles mute; WebAudio is running and oscillator notes were scheduled",
+    "No page errors and no external requests"
+  ],
+  "dossier": {
+    "bytes": 366400,
+    "sha256": "d5afd05c166e060651a1b2c6e6b90ef63817a06c716b88aa63a54b4365e7f931",
+    "identicalAcrossTwoRuns": true
+  }
+}
